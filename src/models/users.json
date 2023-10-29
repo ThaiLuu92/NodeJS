@@ -1,0 +1,300 @@
+[
+  {
+    "email": "matienjp94@gmail.com",
+    "id": "3c8878af-ffbf-412e-8c21-05c4fa09d2f1",
+    "userName": "Viễn",
+    "password": "123",
+    "role": false,
+    "avatar": "",
+    "phone": "",
+    "address": "",
+    "created_at": "21/10/2023",
+    "updated_at": "",
+    "myCourses": [],
+    "status": true
+  },
+  {
+    "email": "matienjp97@gmail.com",
+    "id": "d82908f6-8e66-4892-b937-d2fa8ae9e51b",
+    "userName": "Quyết",
+    "password": "123",
+    "role": false,
+    "status": true,
+    "fullname": "",
+    "avatar": "",
+    "phone": "",
+    "address": "",
+    "created_at": "21/10/2023",
+    "updated_at": "",
+    "myCourses": []
+  },
+  {
+    "email": "matienjp92@gmail.com",
+    "id": "d82908f6-8e66-4892-b937-d2fa8ae9e513",
+    "userName": "Thái Lưu ",
+    "password": "123",
+    "role": false,
+    "status": false,
+    "fullname": "Lưu Hồng Thái",
+    "avatar": "",
+    "phone": "0901546111",
+    "address": "Hải Phòng",
+    "created_at": "21/10/2023",
+    "updated_at": "",
+    "myCourses": [
+      {
+        "id": "3",
+        "courseName": "Học Online N3",
+        "price": 1590000,
+        "enrollmentDurationInMonths": 6,
+        "category": "JLPT",
+        "level": "N3",
+        "image": "https://import.cdn.thinkific.com/165513/yEpGUlnlRyC0hxJtKKn2_n5.png",
+        "roadmap": [
+          {
+            "id": 1,
+            "status": "processing",
+            "name": "Bài 1",
+            "video": "https://www.youtube.com/embed/kDf5YYPRBqQ?si=mu2prbm_nsVeteWL",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 2,
+            "status": "block",
+            "name": "Bài 2",
+            "video": "https://www.youtube.com/embed/_ojVS-KgDEg?si=V3QRWN1in1BX_l2A",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 3,
+            "status": "block",
+            "name": "Bài 3",
+            "video": "https://www.youtube.com/embed/wTrArDmgaHo?si=pEDGv9H9pyHXm8NT",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 4,
+            "name": "Bài 4",
+            "status": "block",
+            "video": "https://www.youtube.com/embed/QDM_AlghF6Q?si=z9ISyTbRiMVAfBvz",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 5,
+            "name": "Bài 5",
+            "status": "block",
+            "video": "https://www.youtube.com/embed/iklmQR07sa4?si=j_4nvoeuSXXLXlJ7",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 6,
+            "name": "Bài 6",
+            "status": "block",
+            "video": "https://www.youtube.com/embed/iklmQR07sa4?si=j_4nvoeuSXXLXlJ7",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 7,
+            "name": "Bài 7",
+            "status": "block",
+            "video": "https://www.youtube.com/embed/iklmQR07sa4?si=j_4nvoeuSXXLXlJ7",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 8,
+            "name": "Bài 8",
+            "status": "block",
+            "video": "https://www.youtube.com/embed/iklmQR07sa4?si=j_4nvoeuSXXLXlJ7",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 9,
+            "name": "Bài 9",
+            "status": "block",
+            "video": "https://www.youtube.com/embed/iklmQR07sa4?si=j_4nvoeuSXXLXlJ7",
+            "exam": "/images/exam.png"
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "courseName": "Học Online N5",
+        "price": 990000,
+        "enrollmentDurationInMonths": 6,
+        "category": "JLPT",
+        "level": "N5",
+        "image": "https://import.cdn.thinkific.com/165513/yEpGUlnlRyC0hxJtKKn2_n5.png",
+        "roadmap": [
+          {
+            "id": 1,
+            "status": "complete",
+            "name": "Bài 1",
+            "video": "https://www.youtube.com/embed/kDf5YYPRBqQ?si=mu2prbm_nsVeteWL",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 2,
+            "status": "complete",
+            "name": "Bài 2",
+            "video": "https://www.youtube.com/embed/_ojVS-KgDEg?si=V3QRWN1in1BX_l2A",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 3,
+            "status": "complete",
+            "name": "Bài 3",
+            "video": "https://www.youtube.com/embed/wTrArDmgaHo?si=pEDGv9H9pyHXm8NT",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 4,
+            "name": "Bài 4",
+            "status": "complete",
+            "video": "https://www.youtube.com/embed/QDM_AlghF6Q?si=z9ISyTbRiMVAfBvz",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 5,
+            "name": "Bài 5",
+            "status": "complete",
+            "video": "https://www.youtube.com/embed/iklmQR07sa4?si=j_4nvoeuSXXLXlJ7",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 6,
+            "name": "Bài 6",
+            "status": "processing",
+            "video": "https://www.youtube.com/embed/iklmQR07sa4?si=j_4nvoeuSXXLXlJ7",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 7,
+            "name": "Bài 7",
+            "status": "block",
+            "video": "https://www.youtube.com/embed/iklmQR07sa4?si=j_4nvoeuSXXLXlJ7",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 8,
+            "name": "Bài 8",
+            "status": "block",
+            "video": "https://www.youtube.com/embed/iklmQR07sa4?si=j_4nvoeuSXXLXlJ7",
+            "exam": "/images/exam.png"
+          },
+          {
+            "id": 9,
+            "name": "Bài 9",
+            "status": "block",
+            "video": "https://www.youtube.com/embed/iklmQR07sa4?si=j_4nvoeuSXXLXlJ7",
+            "exam": "/images/exam.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "email": "example1@example.com",
+    "id": "abcdef12-3456-7890",
+    "userName": "User1",
+    "password": "password1",
+    "role": true,
+    "status": true,
+    "fullname": "John Doe",
+    "avatar": "",
+    "phone": "1234567890",
+    "address": "New York",
+    "created_at": "21/10/2023",
+    "updated_at": "",
+    "myCourses": []
+  },
+  {
+    "email": "example2@example.com",
+    "id": "12345678-90ab-cdef",
+    "userName": "User2",
+    "password": "password2",
+    "role": false,
+    "status": true,
+    "fullname": "Jane Smith",
+    "avatar": "",
+    "phone": "9876543210",
+    "address": "Los Angeles",
+    "created_at": "21/10/2023",
+    "updated_at": "",
+    "myCourses": []
+  },
+  {
+    "email": "example3@example.com",
+    "id": "a1b2c3d4-5e6f-7890",
+    "userName": "User3",
+    "password": "password3",
+    "role": false,
+    "status": true,
+    "fullname": "Alice Johnson",
+    "avatar": "",
+    "phone": "5551234567",
+    "address": "Chicago",
+    "created_at": "21/10/2023",
+    "updated_at": "",
+    "myCourses": []
+  },
+  {
+    "email": "example4@example.com",
+    "id": "9876-5432-10fe-dcba",
+    "userName": "User4",
+    "password": "password4",
+    "role": false,
+    "status": false,
+    "fullname": "Bob Williams",
+    "avatar": "",
+    "phone": "9998887777",
+    "address": "Houston",
+    "created_at": "21/10/2023",
+    "updated_at": "",
+    "myCourses": []
+  },
+  {
+    "email": "example5@example.com",
+    "id": "5432-10fe-dcba-9876",
+    "userName": "User5",
+    "password": "password5",
+    "role": false,
+    "status": false,
+    "fullname": "Eva Davis",
+    "avatar": "",
+    "phone": "1112223333",
+    "address": "Miami",
+    "created_at": "21/10/2023",
+    "updated_at": "",
+    "myCourses": []
+  },
+  {
+    "email": "example6@example.com",
+    "id": "5432-10fe-dcba-9877",
+    "userName": "User5",
+    "password": "password5",
+    "role": false,
+    "status": false,
+    "fullname": "Eva Davis",
+    "avatar": "",
+    "phone": "1112223333",
+    "address": "Miami",
+    "created_at": "21/10/2023",
+    "updated_at": "",
+    "myCourses": []
+  },
+  {
+    "email": "asd@gmail.com",
+    "id": "6608884e-85ca-447d-bf0e-cdcca1c0d44d",
+    "userName": "eweffdsfa",
+    "password": "12345678",
+    "role": false,
+    "status": true,
+    "fullname": "",
+    "avatar": "",
+    "phone": "",
+    "address": "",
+    "created_at": "10/24/2023",
+    "updated_at": "",
+    "myCourses": []
+  }
+]

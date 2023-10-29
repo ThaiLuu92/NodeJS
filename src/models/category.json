@@ -1,0 +1,31 @@
+ [
+    {
+      "id": "1",
+      "category_name": "JLPT",
+      "description": "Mô tả 123 tw4yqergaer",
+      "status": true,
+      "courses": ["1", "2", "3"],
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "category_name": "Kaiwa",
+      "description": "Mô tả",
+      "status": true,
+      "courses": ["11", "12"]
+    },
+    {
+      "id": "3",
+      "category_name": "Shiken",
+      "description": "Mô tả",
+      "status": true,
+      "courses": ["21", "22", "23"]
+    },
+    {
+      "id": "4",
+      "category_name": "Business",
+      "description": "Mô tả",
+      "status": true,
+      "courses": ["31", "32"]
+    }
+  ]
