@@ -15,9 +15,14 @@ export function handleLoginRequest(req, res) {
       const usersDataJSON = fs.readFileSync("src/models/users.json", "utf8");
       const users = JSON.parse(usersDataJSON);
 
+      console.log(users);
+
       const checkLoginUser = users.find((user) => {
-        user.email === loginUser.email && user.password === loginUser.password;
+        return (
+          user.email === loginUser.email && user.password === loginUser.password
+        );
       });
+
       if (checkLoginUser) {
         const successLoginJSON = {
           success: true,

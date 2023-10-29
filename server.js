@@ -1,7 +1,5 @@
 import { createServer } from "http";
 import url from "url";
-import fs from "fs";
-import querystring from "querystring";
 import "dotenv/config";
 import { handleRequest } from "./utils/util.js";
 import { error } from "console";
